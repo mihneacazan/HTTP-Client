@@ -1,4 +1,4 @@
-# HTTP Client for Managing an Online Movie Library
+# HTTP Client for managing an Online Movie Library
 
 This project implements an HTTP client in C++ capable of interacting with a REST API to manage an online movie library. The client communicates with the server via TCP sockets, manually building and parsing HTTP requests and responses. The application provides a command-line interface (CLI) for various operations, including admin and user authentication, user management, and movie and collection management.
 
